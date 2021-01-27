@@ -1,0 +1,7 @@
+Link moment.js as a date library 
+When you type something and press lock, it saves into local storage.
+If you don't press the floppy disk, it won't save.
+Color of the times change. 
+Red means future time
+gray means past time
+Green means current time.
