@@ -6,7 +6,7 @@ $(".saveBtn").click(function () {
   localStorage.setItem(time, textValue);
 });
 
-//
+//pulling the id and class so that it will save into local storage
 $("#9-am .description").val(localStorage.getItem("9am"));
 $("#10-am .description").val(localStorage.getItem("10am"));
 $("#11-am .description").val(localStorage.getItem("11am"));
